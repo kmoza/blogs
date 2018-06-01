@@ -1,2 +1,2 @@
 # technical_blogs
-[ ] http://www.tenouk.com/cnlinuxsockettutorials.html
+[1] http://www.tenouk.com/cnlinuxsockettutorials.html
