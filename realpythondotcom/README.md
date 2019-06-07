@@ -1,3 +1,3 @@
 links
-https://realpython.com/intro-to-python-threading/
+[1] https://realpython.com/intro-to-python-threading/
 
