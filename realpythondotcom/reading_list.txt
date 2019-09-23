@@ -1,5 +1,5 @@
 Python Reading List for Office
-https://realpython.com/intro-to-python-threading/ - doing
+https://realpython.com/intro-to-python-threading/
 https://realpython.com/async-io-python/
 https://realpython.com/python-concurrency/
 https://realpython.com/courses/intro-object-oriented-programming-oop-python/
@@ -18,4 +18,7 @@ https://realpython.com/python-concurrency/
 https://realpython.com/factory-method-python/
 https://realpython.com/python-super/
 https://realpython.com/courses/using-list-comprehensions-effectively/
+https://realpython.com/pointers-in-python/
+https://realpython.com/pyinstaller-python/
 https://realpython.com/command-line-interfaces-python-argparse/
+https://realpython.com/learning-paths/
