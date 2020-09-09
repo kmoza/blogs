@@ -1,4 +1,4 @@
-# nvidia cuda articles
+# Nvidia cuda articles
 ## done
 [1]
 
