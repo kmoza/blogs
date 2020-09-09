@@ -1,6 +1,6 @@
 # nvidia cuda articles
 ## done
-[]
+[1]
 
 ## in progress
-[-] https://developer.nvidia.com/blog/cuda-refresher-getting-started-with-cuda/
+[1] https://developer.nvidia.com/blog/cuda-refresher-getting-started-with-cuda/
