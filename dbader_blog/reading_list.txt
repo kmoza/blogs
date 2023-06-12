@@ -1,2 +1,0 @@
-reading_list
-https://dbader.org/blog/python-iterators
